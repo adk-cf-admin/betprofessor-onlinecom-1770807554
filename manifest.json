@@ -1,0 +1,19 @@
+{
+  "name": "BetProfessor",
+  "short_name": "BetProfessor",
+  "theme_color": "",
+  "background_color": "#386587",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770804874-favicon-32x32-25.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

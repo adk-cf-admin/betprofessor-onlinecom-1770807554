@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://betprofessor-online.com/
+Sitemap: https://betprofessor-online.com/sitemap.xml

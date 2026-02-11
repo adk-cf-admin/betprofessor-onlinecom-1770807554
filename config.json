@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#386587",
+            "lang-select-color": "#222829",
+            "bg-light": "#386587",
+            "welcome-bonus-bg": "#386587",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#13222E",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#F3D7A1",
+            "text-head": "#13222E",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#65CC00",
+            "yellow": "#F3D7A1",
+            "yellow-button": "#65CC00",
+            "button-text": "#13222E",
+            "main-button-text": "#13222E",
+            "border-color": "#efefdc",
+            "casino-cards": "#386587",
+            "bonus-border-head": "#13222E",
+            "bonus-border": "#000033",
+            "providers-back": "#386587",
+            "faq-label": "#386587",
+            "bg-footer": "#386587",
+            "copyright": "#e7e7d5",
+            "starColor": "#F3D7A1",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2901"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2903",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BetProfessor Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2904",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BetProfessor"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BetProfessor",
+                    "title": "BetProfessor: sharp odds, live betting, accas, bonuses & quick withdrawals",
+                    "description": "Bet on sport and racing with a smooth bet slip, live markets and great promos. Enjoy odds boosts, cashback and acca bonuses for extra value. Fast sign-up, secure payments and quick access to your winnings.",
+                    "canonical": "betprofessor-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2905",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "betprofessor-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2906"
+                },
+                "hero": {
+                    "title": "BetProfessor — sports & racing betting, bonuses, fast payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2907",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2908",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Strong odds for bigger potential returns",
+                        "Fast withdrawals across popular methods",
+                        "Multi and acca bonuses for value",
+                        "Boosted odds on major fixtures",
+                        "Wide sports and racing market coverage",
+                        "Leaderboards and tournaments with prizes",
+                        "Smooth app experience with live betting"
+                    ],
+                    "advantagesAfterText": "We make wagering simple and rewarding from selection to settlement. It’s easy to build multis, explore markets, and get extra value on every bet. Our promos and seasonal events keep the experience fresh and exciting.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Betprofessor App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2909",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Betprofessor App",
+                    "mobileGooglePlayImageTitle": "Betprofessor App",
+                    "mobileIosImageTitle": "Betprofessor App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Betprofessor",
+                        "description1": "We stand out with strong sports and racing coverage plus fast, intuitive market navigation. We back your strategy with boosts, promos, and competitions that create extra value.\n",
+                        "items": [
+                            "Winnings up to $50,000 per bet.",
+                            "Up to 50% acca bonus value.",
+                            "Up to 10% weekly cashback."
+                        ],
+                        "description2": "We’re a wagering platform that brings sports and racing together in one streamlined experience, so you can find events fast, explore markets, and build slips that match your strategy. Our coverage includes major competitions and a packed racing schedule, with dynamic pricing that helps you capture the right moments before and during play. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2910",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We’ve designed the interface to be clear and quick, letting you add match outcomes, totals, lines, and specials in just a few taps while instantly viewing potential returns. If you love combinations, it’s easy to craft multis and accas, plus enhanced options that make your bet slip more flexible and engaging. We run regular feature events around big sporting weekends and headline race days, turning every week into more than just wagering. During these periods, you’ll see boosted odds, themed challenges, and leaderboards that reward participation with prizes. Our bonus offers are built to support different play styles—careful singles, active live betting, smart accas, and long-term approaches. You can access tailored promos, multi boosts, cashback, and missions that add extra value to each session. We also grow a tiered status system so consistent play unlocks more perks, from higher cashback to priority service. Everything stays transparent, with clear terms and easy tracking of your progress and rewards inside your account. We keep things entertaining with prediction contests, seasonal activations, and league-focused events that add momentum to the experience. New customers get a smooth start with helpful guidance, fast bet slip learning, and simple offer activation. Experienced punters can dive into deeper markets, combination angles, and flexible stake management. We promote responsible wagering too, with tools that help you set limits and keep play comfortable. The result is a modern, user-first betting destination where every step—from selection to payout—is built for speed, clarity, and added value."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Betprofessor: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nParticipation rules & responsible wagering: a smooth experience for everyone\n<\/h3>\n\n<p>\nWe welcome adults only and ask you to enter personal details exactly as shown on your ID so withdrawals remain fast and accurate. To access all features, a standard identity check may be required, and keeping your contact details up to date helps everything run smoothly. We support fair play and expect every account to be used only by its owner, without sharing access with anyone else. Any attempt to bypass rules, use someone else’s payment details, or create duplicate profiles isn’t allowed. We also ask for respectful communication in live chat and email, without abuse, threats, or spam. Security matters, so we recommend strong passwords and trusted devices. Wagering should stay entertainment, which is why we provide control tools to manage time and spend. If you need a break, you can restrict access and reset your pace. We’re happy to help you configure limits and keep things responsible. These rules protect you and the platform, keeping everything clear and fair.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParticipation conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: 18+ with ID checks when required\n\n<\/li>\n            <li>• \nRegistration: one account per customer\n\n<\/li>\n            <li>• \nDetails: must match ID and stay current\n\n<\/li>\n            <li>• \nPayments: use your own payment methods only\n\n<\/li>\n\t    <li>• \nAccess: account use follows platform rules\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNot allowed\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSharing your account or betting on behalf of others\n\n<\/li>\n            <li>• \nCreating multiple accounts to gain advantages\n\n<\/li>\n            <li>• \nUsing third-party cards\/accounts or questionable funds\n\n<\/li>\n            <li>• \nTrying to interfere with settlement or system operations\n\n<\/li>\n\t    <li>• \nAbusive communication or disruption of support\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible wagering\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: deposits, stakes, losses, and time\n\n<\/li>\n            <li>• \nTime-out: temporary break on request\n\n<\/li>\n            <li>• \nSelf-exclusion: longer restrictions if needed\n\n<\/li>\n            <li>• \nHistory: easy tracking of activity and transactions\n\n<\/li>\n\t    <li>• \nSupport: help setting controls and guidance\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing and data protection: trust, privacy, security\n<\/h3>\n\n<p>\nWe operate with strict industry-aligned compliance principles and use standard identity and transaction controls to maintain a safe, transparent wagering environment. Account verification helps protect customers from fraud and can speed up withdrawal processing. We apply internal risk management and monitoring policies to detect unusual behaviour and prevent unauthorised access. We also support responsible wagering and apply rules that keep promotions and bonuses fair. Our goal is for you to feel confident at every step—from sign-up to payout.\n\n<\/p>\n<br>\n\n\n<p>\nWe use modern data protection methods across transmission, storage, and processing. Data in transit is protected with encryption to reduce the risk of interception or tampering. Inside our systems, access controls ensure only authorised processes and staff can interact with sensitive information. We continually update security components and use detection mechanisms for suspicious login attempts. This helps preserve account integrity and protect financial activity.\n\n<\/p>\n<br>\n<p>\nWe treat privacy as a promise to our customers. We collect only the information required to deliver the service, operate your account, process payments, and meet mandatory checks. We avoid unnecessary collection and limit data use to service delivery and improving your experience. Notification and preference settings let you control what you receive and when. Any changes to how data is handled are communicated clearly, with your control in mind.\n\n<\/p>\n<br>\n<p>\nWe secure payment operations through trusted processing pathways and transaction safety requirements. Payment information is handled in a protected environment, and sensitive details are used only for completing the transaction. Additional checks may be triggered to protect your account and prevent misuse. We apply risk detection tools to increase security while keeping the experience smooth. This approach supports reliable deposits and withdrawals.\n\n<\/p>\n<br>\n<p>\nWe provide clear tools to help you manage security: password updates, active session control, key-action confirmations, and login alerts. If you spot unusual activity, contacting support promptly helps us secure your account fast. You can also choose stronger controls, including limits and time-based restrictions. We believe security is a mix of strong technology and smart habits, so we keep tips and guidance easy to find. Together, these measures maintain a high level of trust and peace of mind while you use our platform.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer support: fast responses, real help\n<\/h3>\n\n<p>\nWe’ve built support so you can get assistance exactly when you need it—during sign-up, deposits, bet settlement, or withdrawals. We respond quickly and clearly so you don’t waste time on back-and-forth. Live chat is ideal for rapid help, from market guidance to checking a transaction status. Email is perfect for documents and detailed requests, while phone support helps when speed and clarity matter most. We focus on service quality by explaining things in plain language and providing step-by-step actions. We aim to resolve requests on the first contact, and when needed we stay with you until it’s done. We support multiple languages so you can communicate in the way that feels comfortable. We also assist with responsible wagering tools, limits, and time-outs. Your contact history is retained, so you don’t need to repeat yourself. If a request needs deeper review, we set expectations and keep you updated. Our goal is support that genuinely helps.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: quick help for most issues\n\n<\/li>\n            <li>• \nEmail: best for detailed cases and documents\n\n<\/li>\n            <li>• \nPhone: ideal for urgent matters and guidance\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times & quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–3 minutes to first reply\n\n<\/li>\n            <li>• \nEmail: typically 2–12 hours depending on case\n\n<\/li>\n            <li>• \nPhone: connected as quickly as possible in service windows\n\n<\/li>\n            <li>• \nApproach: clear instructions and end-to-end follow-up\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrimary: English\n\n<\/li>\n            <li>• \nAdditional: popular languages available on request\n\n<\/li>\n            <li>• \nFlexibility: choose the channel that suits you\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Betprofessor",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty program: tiers, perks, and rewards for activity\n<\/h3>\n<p>\nOur loyalty program is made for customers who wager regularly and want more value back from every session. Membership unlocks higher cashback, tailored offers, and special rewards for consistent play. We award points for settled bets, event participation, and completing missions, with clear progress tracking inside your account. The higher your tier, the more benefits you receive—from priority handling to exclusive promos. We support different play styles, so rewards suit singles, live wagering, and acca builders alike. Tiers unlock step-by-step with transparent requirements, so you always know what’s next. We add missions frequently to help you boost points faster and claim rewards. Perks are flexible: bonus funds, cashback, odds boosts, and event gifts. Everything stays straightforward, and benefits activate automatically when you reach a tier. Seasonal periods can bring even bigger rewards. Long-term members receive offers shaped around their wagering history. The result is a system where every settled bet contributes to status and extra value.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCreate an account and verify it\n\n<\/li>\n            <li>• \nEnable loyalty participation in your profile\n\n<\/li>\n            <li>• \nPlace settled bets—points accrue automatically\n\n<\/li>\n            <li>• \nTrack progress and missions in your dashboard\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: from 0 points — entry tier (cashback up to 2%)\n\n<\/li>\n            <li>• \nSilver: from 500 points — more boosts and missions (cashback up to 4%)\n\n<\/li>\n            <li>• \nGold: from 2,000 points — tailored promos (cashback up to 6%)\n\n<\/li>\n            <li>• \nPlatinum: from 5,000 points — priority service (cashback up to 8%)\n\n<\/li>\n\t    <li>• \nElite: from 10,000 points — top-tier perks (cashback up to 10% + exclusive boosts)\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards\n<\/h4>\n\n <ul>\n            <li>• \nCashback: up to 10% weekly — returns a portion of net losses\n\n<\/li>\n            <li>• \nOdds boosts: up to +10% — increases potential returns\n\n<\/li>\n            <li>• \nAcca bonus: up to 50% — extra value on multis\n\n<\/li>\n            <li>• \nMissions: bonuses up to $100 — rewards for completing tasks\n\n<\/li>\n\t    <li>• \nSeasonal gifts: prizes up to $500 — event participation rewards\n\n<\/li>\n\t    <li>• \nBirthday bonus: up to $50 — a personal gift on the day\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers: more value on every wager\n<\/h3>\n\n<p>\nWe run frequent promos that boost your sports and racing experience and add extra opportunities outside of the loyalty program. New customers get a smooth start with quick activations, simple terms, and clear reward mechanics. Active punters can access cashback windows, acca boosts, and enhanced pricing on major fixtures. We host seasonal events around headline tournaments and big race days, where rewards come from participation, wagering streaks, or leaderboard placement. Live betting fans can jump into match-of-the-day challenges and short missions designed for in-play momentum. We also support different styles—some promos suit singles, others reward multis and cumulative tasks. During major sporting weekends, we roll out odds boosts that lift potential returns on selected markets. For racing, special feature days reward participation in nominated races and offer extra prizes for consistent picks. Leaderboards keep things competitive and transparent, showing your rank and distance to prizes. Beyond pure promos, we run entertainment-style activities with rewards—from bet credits to cash prizes. Terms stay clear, so you can see turnover, timeframes, and eligible markets up front. Activations are fast, often completed in a single tap in the promotions area. You can combine multiple offers over time to maximise value. We also deliver personalised promos based on your favourite sports and markets. The result is a rich promo ecosystem built for both new and experienced punters.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromos and bonuses \n<\/h4>\n\n <ul>\n            <li>• \nWelcome bonus: up to $200 — bonus funds for early wagers\n\n<\/li>\n            <li>• \nStarter bet credit: up to $25 — a risk-free style bet offer\n\n<\/li>\n            <li>• \nAcca bonus: up to 50% — extra value on successful multis\n\n<\/li>\n            <li>• \nOdds Boost: up to +10% — enhanced odds on featured markets\n\n<\/li>\n\t    <li>• \nWeekly cashback: up to 10% — returns a portion of net losses\n\n<\/li>\n\t    <li>• \nMatch-of-the-day: bet credits up to $10 — live missions rewards\n\n<\/li>\n\t    <li>• \nPrediction tournament: prize pool up to $5,000 — points leaderboard\n\n<\/li>\n\t    <li>• \nFeature race day: bonus up to $50 — rewards on nominated races\n\n<\/li>\n\t    <li>• \nWagering streak: bonus up to $100 — weekly challenge prize\n\n<\/li>\n\t    <li>• \nSeasonal events: prizes up to $500 — themed tasks and draws\n\n<\/li>\n\t    <li>• \nPersonal offers: up to $75 — tailored promos for your markets\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMarkets and wagering: sport, live, and racing together\n<\/h3>\n\n<p>\nWe deliver a full bookmaker experience with pre-match and live betting, letting you move quickly between events and markets. Sports wagering includes core outcomes, lines, totals, and expanded options so you can build a slip that fits your approach. If you enjoy combinations, our multis and accas are easy to create, with potential returns displayed clearly. Live betting is built for pace, with dynamic odds and a strong selection of in-play markets to catch the right moments. Racing comes with a busy schedule and a wide range of races, distances, and bet types. We support quick “in the moment” plays as well as more structured strategies with market selection. Navigation is simple with filters, search, and favourites to get you to the right event fast. We add special markets for big fixtures and key race days to keep the experience exciting. Key event information is displayed clearly, and the bet slip stays straightforward. You can edit selections, rebuild your slip, and choose stakes in just a few taps. The result is fast, flexible, and engaging wagering.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBet types and markets\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSingles: outcomes, totals, lines\n\n<\/li>\n            <li>• \nAccas and multis: combine events and markets\n\n<\/li>\n            <li>• \nLive betting: in-play wagering with dynamic odds\n\n<\/li>\n            <li>• \nSpecials: stats, intervals, alternative outcomes\n\n<\/li>\n\t    <li>• \nRacing: win\/place, combos, and series options\n\n<\/li>\n\t    <li>• \nOutrights: season and tournament futures\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStake limits: minimum and maximum amounts\n<\/h3>\n\n<p> \nWe keep wagering accessible for every budget, so you can start small and scale up as your confidence grows. Limits can vary by sport, market, event, and pricing movement, which is why the exact values are always shown on your bet slip. We support key formats—singles, accas, and racing markets—to match different styles. This gives you control over risk and bankroll management within clear boundaries.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color:#F3D7A1;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #13222E; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #13222E; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #13222E; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports (single)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Acca \/ multi<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$15,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Racing (Win\/Place)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Racing<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$7,500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Outrights<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals and payout speed: fast, smooth, transparent\n<\/h3>\n\n<p>\nWe’ve designed withdrawals so you can receive winnings quickly with clear visibility at every step. As soon as you request a payout, you’ll see a status update and can track progress in your account. Speed depends on the chosen method, processing windows, and whether a standard account check is needed. We aim to process requests promptly, especially for verified customers with a consistent transaction history. Multiple withdrawal options are available so you can choose what suits you best. We also apply safety controls, and sometimes extra confirmation may be required to protect your balance. Withdrawal limits vary by method and activity, and the exact limits are shown before you confirm. Ensuring your details are correct helps prevent delays. Completing verification early and using your own payment methods can speed things up. If you have questions, support can quickly confirm where your payout sits and what helps move it along. Our goal is for payouts to feel like a seamless part of the experience and reinforce trust in our platform.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank transfer: reliable payout to your account\n\n<\/li>\n            <li>• \nCard (where available): return to source\n\n<\/li>\n            <li>• \nInstant payments (where available): fast transfers to supported methods\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed and processing times\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRequest processing: typically 15 minutes to 24 hours\n\n<\/li>\n            <li>• \nProvider\/bank settlement: typically 1–3 business days\n\n<\/li>\n            <li>• \nVerification: can be quicker with pre-verified details\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from $10\n\n<\/li>\n            <li>• \nMax per transaction: up to $10,000\n\n<\/li>\n            <li>• \nDaily maximum: up to $50,000\n\n<\/li>\n            <li>• \nExact limits: shown before confirmation\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I know if my bet is settled?",
+                            "answer": "Settlement status appears in your bet history, and notifications keep you updated.\n\n\n"
+                        },
+                        {
+                            "title": "How fast is verification?",
+                            "answer": "Most checks complete from minutes up to 24 hours, and correct details speed it up.\n\n\n"
+                        },
+                        {
+                            "title": "How do I set responsible wagering limits?",
+                            "answer": "In your profile you can set deposit, stake, loss, and time limits, plus activate a time-out.\n\n\n"
+                        },
+                        {
+                            "title": "What is an “odds boost”?",
+                            "answer": "It’s a temporary enhanced price on a selected market that increases potential returns on the same stake.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
